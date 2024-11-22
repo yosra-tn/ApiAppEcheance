@@ -1,28 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b90fdbae-e027-4ed9-ba70-757de0be3cbe" name="Changes" comment="" />
+    <list default="true" id="b90fdbae-e027-4ed9-ba70-757de0be3cbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/Categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/Categories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/invi_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/invi_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/typeOccurence.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/typeOccurence.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yosra-tn"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yosra-tn/ApiAppEcheance.git",
+    "accountId": "b3f09212-4dfc-47ad-8335-deab3a5f4faa"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2o48wsO5ZocxjGgxFiuubsW9Ucj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -39,8 +82,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730117728278</updated>
-      <workItem from="1730117732010" duration="2000" />
+      <workItem from="1730117732010" duration="9065000" />
+      <workItem from="1730136401942" duration="2560000" />
+      <workItem from="1730147262939" duration="923000" />
+      <workItem from="1730148204975" duration="380000" />
+      <workItem from="1730148598892" duration="51000" />
+      <workItem from="1730214436223" duration="673000" />
+      <workItem from="1730215126973" duration="10557000" />
+      <workItem from="1730230025584" duration="2363000" />
+      <workItem from="1730232500263" duration="3245000" />
+      <workItem from="1730306774375" duration="9298000" />
+      <workItem from="1730368106949" duration="2100000" />
+      <workItem from="1730370255554" duration="628000" />
+      <workItem from="1730370941250" duration="19152000" />
+      <workItem from="1730397887100" duration="406000" />
+      <workItem from="1730564325335" duration="6015000" />
+      <workItem from="1730647742937" duration="2786000" />
+      <workItem from="1730650652008" duration="1846000" />
+      <workItem from="1730654590626" duration="4629000" />
+      <workItem from="1730667086621" duration="248000" />
+      <workItem from="1730667480721" duration="2106000" />
+      <workItem from="1730669736795" duration="1069000" />
+      <workItem from="1730712090012" duration="2324000" />
+      <workItem from="1730714575924" duration="296000" />
+      <workItem from="1732101978630" duration="3715000" />
+      <workItem from="1732114881551" duration="580000" />
+      <workItem from="1732115533969" duration="6618000" />
+      <workItem from="1732126937084" duration="605000" />
+      <workItem from="1732127592406" duration="5884000" />
+      <workItem from="1732187746015" duration="3754000" />
+      <workItem from="1732191966110" duration="11236000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
